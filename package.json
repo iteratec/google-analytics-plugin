@@ -13,8 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwilson/google-analytics-plugin.git"
+    "url": "https://github.com/iteratec/google-analytics-plugin.git"
   },
+  "engines": [{
+     "name": "cordova",
+     "version": ">=3.0.0"
+  }],
   "keywords": [
     "cordova",
     "googleanalytics",
